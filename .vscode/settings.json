@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unity-pong.sln"
+    "dotnet.defaultSolution": "pong_bouton_pot_unity.sln"
 }
